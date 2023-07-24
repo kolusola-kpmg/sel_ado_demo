@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yV9Vmt9C2g50VA6YM5rij/O+BozNP+BiIpbh9D7r4csfSocJES8eSwEZFRXtyWFZuxGjRtTUibQmM6E2b6P23g==",
+  "dgSpecHash": "vJ1f1gT1jYg1ExBG+InF/xyByIuY0r6eAlvhAkoE35LWhpUHv39qlcQY/vFFYKNKlgNg6Jmmz86nZxlekcYvVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\sel_ado_demo.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "C:\\Users\\kolusola\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
     "C:\\Users\\kolusola\\.nuget\\packages\\selenium.support\\4.10.0\\selenium.support.4.10.0.nupkg.sha512",
     "C:\\Users\\kolusola\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
-    "C:\\Users\\kolusola\\.nuget\\packages\\selenium.webdriver.chromedriver\\83.0.4103.3915\\selenium.webdriver.chromedriver.83.0.4103.3915.nupkg.sha512",
+    "C:\\Users\\kolusola\\.nuget\\packages\\selenium.webdriver.chromedriver\\115.0.5790.10200\\selenium.webdriver.chromedriver.115.0.5790.10200.nupkg.sha512",
     "C:\\Users\\kolusola\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
