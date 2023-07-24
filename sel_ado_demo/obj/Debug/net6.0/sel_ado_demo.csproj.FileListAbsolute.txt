@@ -114,3 +114,4 @@ C:\Users\kolusola\source\repos\sel_ado_demo\sel_ado_demo\obj\Debug\net6.0\refint
 C:\Users\kolusola\source\repos\sel_ado_demo\sel_ado_demo\obj\Debug\net6.0\sel_ado_demo.pdb
 C:\Users\kolusola\source\repos\sel_ado_demo\sel_ado_demo\obj\Debug\net6.0\sel_ado_demo.genruntimeconfig.cache
 C:\Users\kolusola\source\repos\sel_ado_demo\sel_ado_demo\obj\Debug\net6.0\ref\sel_ado_demo.dll
+C:\Users\kolusola\source\repos\sel_ado_demo\sel_ado_demo\bin\Debug\net6.0\chromedriver.exe
