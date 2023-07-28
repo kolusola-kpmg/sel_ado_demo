@@ -1094,7 +1094,6 @@
       "MSTest.TestAdapter >= 3.1.1",
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.6.3",
-      "Microsoft.TestPlatform.TestHost >= 17.6.3",
       "Selenium.Support >= 4.10.0",
       "Selenium.WebDriver >= 4.10.0",
       "Selenium.WebDriver.ChromeDriver >= 115.0.5790.10200",
@@ -1102,23 +1101,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kolusola\\.nuget\\packages\\": {},
+    "C:\\Users\\-Loper-kolusola\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\sel_ado_demo.csproj",
+      "projectUniqueName": "c:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\sel_ado_demo.csproj",
       "projectName": "sel_ado_demo",
-      "projectPath": "C:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\sel_ado_demo.csproj",
-      "packagesPath": "C:\\Users\\kolusola\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\obj\\",
+      "projectPath": "c:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\sel_ado_demo.csproj",
+      "packagesPath": "C:\\Users\\-Loper-kolusola\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\kolusola\\source\\repos\\sel_ado_demo\\sel_ado_demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kolusola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\-Loper-kolusola\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1155,10 +1154,6 @@
             "version": "[3.1.1, )"
           },
           "Microsoft.NET.Test.Sdk": {
-            "target": "Package",
-            "version": "[17.6.3, )"
-          },
-          "Microsoft.TestPlatform.TestHost": {
             "target": "Package",
             "version": "[17.6.3, )"
           },
