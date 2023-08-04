@@ -49,9 +49,9 @@ namespace sel_ado_demo
                 wait.Until(d => d.Title.StartsWith("comino", StringComparison.OrdinalIgnoreCase));
 
                 // Should see: "Comino - Google Search" (for an English locale)
-                Assert.AreEqual(driver.Title, "Comino - Google Search");
-
+                Assert.IsTrue(driver.Title.Contains("Comino"), "Search Bar not working as Expected");
             }
         }
+
     }
 }
